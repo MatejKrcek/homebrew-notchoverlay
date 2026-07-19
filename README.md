@@ -7,6 +7,7 @@ Dynamic Island pro AI coding agenty v notchi Macu.
 
 ```sh
 brew tap matejkrcek/notchoverlay
+brew trust matejkrcek/notchoverlay   # novější Homebrew vyžaduje důvěru cizím tapům
 brew install --cask notchoverlay
 ```
 
