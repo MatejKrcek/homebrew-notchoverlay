@@ -1,6 +1,6 @@
 cask "notchoverlay" do
-  version "1.2.0"
-  sha256 "5e2c7bcc93fb2452c69976d82d9c4a6f541ea038c93b87dabc4b98394d20ddf0"
+  version "1.3.0"
+  sha256 "167f9d3ec7ce129ffae75c30b6d6ce6b1ee21a9a3fb7b09f8a4dad469ab6d1be"
 
   url "https://github.com/MatejKrcek/NotchOverlay/releases/download/v#{version}/NotchOverlay.dmg"
   name "NotchOverlay"
